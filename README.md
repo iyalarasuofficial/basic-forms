@@ -1,0 +1,1 @@
+A full-stack MERN app with a dynamic profile form. Users can create, update, and delete profiles with file uploads (resume, profile picture) and social media links. Built using React, Tailwind CSS, Node.js, Express, and MongoDB for full CRUD and data persistence.
